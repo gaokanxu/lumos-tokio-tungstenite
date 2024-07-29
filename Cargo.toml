@@ -1,5 +1,5 @@
 [package]
-name = "lumos-tokio-tungstenite"
+name = "tokio-tungstenite"
 description = "Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation"
 categories = ["web-programming::websocket", "network-programming", "asynchronous", "concurrency"]
 keywords = ["websocket", "io", "web"]
